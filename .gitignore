@@ -1,0 +1,47 @@
+# Image files
+*.jpg
+*.png
+*.bmp
+
+# Compiled Object files
+*.slo
+*.lo
+*.obj
+*.class
+*.ko
+*.elf
+*.so
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libs
+*.dylib
+*.dll
+*.lib
+*.a
+*.la
+*.lo
+*.lai
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+controller-addons/build/
+
+# Package Files Java #
+*.jar
+*.war
+*.ear
+
+# Temporary file
+*.*~
+*.log
