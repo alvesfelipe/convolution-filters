@@ -15,7 +15,8 @@ class Utils{
 
 	public:
 		Utils();
-		bool loadImage(string file, Mat image);
+		bool loadImage(string file, Mat *image);
+		void showImage(Mat *image);
 	
 };
 
