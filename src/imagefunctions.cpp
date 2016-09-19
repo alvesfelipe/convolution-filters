@@ -60,11 +60,13 @@ int ImageFunctions::getChannelValue(Mat *image, const int x, const int y, const 
 	cout << "ERROR, THIS PIXEL DOESN'T EXISTS" << endl;
 }
 
-void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask){
-	
+void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut){
+
 	float gx, gy, gz;
-	float maskCenter;
-	int g, auxI, auxJ;
+	float maskCenter, norm = 0;
+	int g = 0, auxI, auxJ;
+
+	*imageOut = image->clone();
 
 	maskCenter = mask->rows/2;	
 	//cout << "MASK CENTER: " << maskCenter << endl;
@@ -86,9 +88,11 @@ void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask){
 						{
 							// int chann = this->getChannelValue(image, auxI - maskCenter , 
 							// 					 auxJ - maskCenter, channel);
-							g += this->getChannelValue(image, auxI, auxJ, channel) * 
-														mask->at<float>(maskHeight, maskWidth);
+							g += (this->getChannelValue(image, auxI, auxJ, channel) * 
+														mask->at<float>(maskHeight, maskWidth));
+							//cout << "G: " << g << endl;
 							//cout << "img Height: " << auxI << " img Width: " << auxJ << " Mask: " << mask->at<float>(maskHeight, maskWidth) << " Channel: " << this->getChannelValue(image, auxI, auxJ, channel) << endl;
+							norm += mask->at<float>(maskHeight, maskWidth);
 						}
 						auxJ ++;
 					}
@@ -96,12 +100,17 @@ void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask){
 					auxI ++;
 				}
 
+				if (norm > 0)
+					g /= norm;
+
+				g = abs(g);
+
 				if (g < 0){g = 0;}
 				if (g > 255){g = 255;}
 
-				this->editPixel(image, imageHeight, imageWidth, channel, abs(g));
+				this->editPixel(imageOut, imageWidth, imageHeight, channel, g);
 				
-				auxI = 0; auxJ = 0; g = 0;
+				auxI = 0; auxJ = 0; g = 0, norm = 0;
 			}
 		}
 	}

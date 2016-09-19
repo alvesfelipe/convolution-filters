@@ -13,7 +13,7 @@ class ImageFunctions{
 		void editPixel(Mat *image, const int x, const int y, const int channel, const int value);
 		void showPixelValue(Mat *image, const int x, const int y);
 		int getChannelValue(Mat *image, const int x, const int y, const int channel);
-		void applyConvolution(Mat *image, Mat1f *mask);
+		void applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut);
 };
 
 #endif

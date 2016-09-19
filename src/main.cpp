@@ -6,11 +6,13 @@ int main(int argc, char* argv[]){
 	Utils *ut = new Utils();
 	ImageFunctions *imf = new ImageFunctions();
 
-	Mat image;
+	Mat image, imageOut;
 
 	if((ut->loadImage(argv[1], &image)) == false){
 		return -1;
 	}
+	
+	//ut->showImage(&imageOut);
 	//cout << image.channels();
 	// imf->showPixelValue(&image, 0, 0);
 	// imf->editPixel(&image, 0, 0, 2, 255);
@@ -23,9 +25,9 @@ int main(int argc, char* argv[]){
 	// cout << test.at<float>(1,1) << endl;
 	// cout << test.channels() << endl;
 	//cout << test.rows << test.cols << endl;
-
-	imf->applyConvolution(&image, &test);
-	ut->showImage(&image);
+	imf->applyConvolution(&image, &test, &imageOut);
+	ut->showImage(&imageOut);
+	
 	delete imf;
 	delete ut;	
     return 0;
