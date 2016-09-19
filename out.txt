@@ -1,0 +1,3893 @@
+Image Loaded
+MASK CENTER: 1
+I/J- 0 0
+INITIAL AUXI/J -1 -1
+CHANNEL: 0
+auxI: -1 auxJ: -1
+auxI: -1 auxJ: 0
+auxI: -1 auxJ: 1
+auxI: 0 auxJ: -1
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 0 Channel: 156
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: -1 Channel: 157
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+I/J- 0 0
+INITIAL AUXI/J -1 -1
+CHANNEL: 1
+auxI: -1 auxJ: -1
+auxI: -1 auxJ: 0
+auxI: -1 auxJ: 1
+auxI: 0 auxJ: -1
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 0 Channel: 156
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: -1 Channel: 157
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+I/J- 0 0
+INITIAL AUXI/J -1 -1
+CHANNEL: 2
+auxI: -1 auxJ: -1
+auxI: -1 auxJ: 0
+auxI: -1 auxJ: 1
+auxI: 0 auxJ: -1
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 0 Channel: 156
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: -1 Channel: 157
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+I/J- 0 1
+INITIAL AUXI/J -1 0
+CHANNEL: 0
+auxI: -1 auxJ: 0
+auxI: -1 auxJ: 1
+auxI: -1 auxJ: 2
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 0 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: -1 Channel: 157
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+I/J- 0 1
+INITIAL AUXI/J -1 0
+CHANNEL: 1
+auxI: -1 auxJ: 0
+auxI: -1 auxJ: 1
+auxI: -1 auxJ: 2
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 0 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: -1 Channel: 157
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+I/J- 0 1
+INITIAL AUXI/J -1 0
+CHANNEL: 2
+auxI: -1 auxJ: 0
+auxI: -1 auxJ: 1
+auxI: -1 auxJ: 2
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 0 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: -1 Channel: 157
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+I/J- 0 2
+INITIAL AUXI/J -1 1
+CHANNEL: 0
+auxI: -1 auxJ: 1
+auxI: -1 auxJ: 2
+auxI: -1 auxJ: 3
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+I/J- 0 2
+INITIAL AUXI/J -1 1
+CHANNEL: 1
+auxI: -1 auxJ: 1
+auxI: -1 auxJ: 2
+auxI: -1 auxJ: 3
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+I/J- 0 2
+INITIAL AUXI/J -1 1
+CHANNEL: 2
+auxI: -1 auxJ: 1
+auxI: -1 auxJ: 2
+auxI: -1 auxJ: 3
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 0 Channel: 156
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: -1 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+I/J- 0 3
+INITIAL AUXI/J -1 2
+CHANNEL: 0
+auxI: -1 auxJ: 2
+auxI: -1 auxJ: 3
+auxI: -1 auxJ: 4
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+I/J- 0 3
+INITIAL AUXI/J -1 2
+CHANNEL: 1
+auxI: -1 auxJ: 2
+auxI: -1 auxJ: 3
+auxI: -1 auxJ: 4
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+I/J- 0 3
+INITIAL AUXI/J -1 2
+CHANNEL: 2
+auxI: -1 auxJ: 2
+auxI: -1 auxJ: 3
+auxI: -1 auxJ: 4
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 0 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: -1 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+I/J- 0 4
+INITIAL AUXI/J -1 3
+CHANNEL: 0
+auxI: -1 auxJ: 3
+auxI: -1 auxJ: 4
+auxI: -1 auxJ: 5
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+I/J- 0 4
+INITIAL AUXI/J -1 3
+CHANNEL: 1
+auxI: -1 auxJ: 3
+auxI: -1 auxJ: 4
+auxI: -1 auxJ: 5
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+I/J- 0 4
+INITIAL AUXI/J -1 3
+CHANNEL: 2
+auxI: -1 auxJ: 3
+auxI: -1 auxJ: 4
+auxI: -1 auxJ: 5
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 0 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: -1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+I/J- 0 5
+INITIAL AUXI/J -1 4
+CHANNEL: 0
+auxI: -1 auxJ: 4
+auxI: -1 auxJ: 5
+auxI: -1 auxJ: 6
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+I/J- 0 5
+INITIAL AUXI/J -1 4
+CHANNEL: 1
+auxI: -1 auxJ: 4
+auxI: -1 auxJ: 5
+auxI: -1 auxJ: 6
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+I/J- 0 5
+INITIAL AUXI/J -1 4
+CHANNEL: 2
+auxI: -1 auxJ: 4
+auxI: -1 auxJ: 5
+auxI: -1 auxJ: 6
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 0 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: -1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+I/J- 0 6
+INITIAL AUXI/J -1 5
+CHANNEL: 0
+auxI: -1 auxJ: 5
+auxI: -1 auxJ: 6
+auxI: -1 auxJ: 7
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 0 Channel: 156
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: -1 Channel: 157
+I/J- 0 6
+INITIAL AUXI/J -1 5
+CHANNEL: 1
+auxI: -1 auxJ: 5
+auxI: -1 auxJ: 6
+auxI: -1 auxJ: 7
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 0 Channel: 156
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: -1 Channel: 157
+I/J- 0 6
+INITIAL AUXI/J -1 5
+CHANNEL: 2
+auxI: -1 auxJ: 5
+auxI: -1 auxJ: 6
+auxI: -1 auxJ: 7
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 0 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 0 Channel: 156
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: -1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: -1 Channel: 157
+I/J- 0 7
+INITIAL AUXI/J -1 6
+CHANNEL: 0
+auxI: -1 auxJ: 6
+auxI: -1 auxJ: 7
+auxI: -1 auxJ: 8
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 0 Channel: 156
+auxI: 0 auxJ: 8
+img Height: 0 img Width: 8 Mask: 0 Channel: 0
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: -1 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: -1 Channel: 0
+I/J- 0 7
+INITIAL AUXI/J -1 6
+CHANNEL: 1
+auxI: -1 auxJ: 6
+auxI: -1 auxJ: 7
+auxI: -1 auxJ: 8
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 0 Channel: 156
+auxI: 0 auxJ: 8
+img Height: 0 img Width: 8 Mask: 0 Channel: 0
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: -1 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: -1 Channel: 0
+I/J- 0 7
+INITIAL AUXI/J -1 6
+CHANNEL: 2
+auxI: -1 auxJ: 6
+auxI: -1 auxJ: 7
+auxI: -1 auxJ: 8
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 0 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 0 Channel: 156
+auxI: 0 auxJ: 8
+img Height: 0 img Width: 8 Mask: 0 Channel: 0
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: -1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: -1 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: -1 Channel: 0
+I/J- 1 0
+INITIAL AUXI/J 0 -1
+CHANNEL: 0
+auxI: 0 auxJ: -1
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 1 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 156
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 0 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 157
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: -1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+I/J- 1 0
+INITIAL AUXI/J 0 -1
+CHANNEL: 1
+auxI: 0 auxJ: -1
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 1 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 156
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 0 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 157
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: -1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+I/J- 1 0
+INITIAL AUXI/J 0 -1
+CHANNEL: 2
+auxI: 0 auxJ: -1
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 1 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 156
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 0 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 157
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: -1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+I/J- 1 1
+INITIAL AUXI/J 0 0
+CHANNEL: 0
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 1 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 0
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 0 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: -1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+I/J- 1 1
+INITIAL AUXI/J 0 0
+CHANNEL: 1
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 1 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 0
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 0 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: -1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+I/J- 1 1
+INITIAL AUXI/J 0 0
+CHANNEL: 2
+auxI: 0 auxJ: 0
+img Height: 0 img Width: 0 Mask: 1 Channel: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 0
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 0 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 157
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: -1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+I/J- 1 2
+INITIAL AUXI/J 0 1
+CHANNEL: 0
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 0
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+I/J- 1 2
+INITIAL AUXI/J 0 1
+CHANNEL: 1
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 0
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+I/J- 1 2
+INITIAL AUXI/J 0 1
+CHANNEL: 2
+auxI: 0 auxJ: 1
+img Height: 0 img Width: 1 Mask: 1 Channel: 0
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 0 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: -1 Channel: 158
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+I/J- 1 3
+INITIAL AUXI/J 0 2
+CHANNEL: 0
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+I/J- 1 3
+INITIAL AUXI/J 0 2
+CHANNEL: 1
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+I/J- 1 3
+INITIAL AUXI/J 0 2
+CHANNEL: 2
+auxI: 0 auxJ: 2
+img Height: 0 img Width: 2 Mask: 1 Channel: 156
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 0 Channel: 157
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: -1 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+I/J- 1 4
+INITIAL AUXI/J 0 3
+CHANNEL: 0
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+I/J- 1 4
+INITIAL AUXI/J 0 3
+CHANNEL: 1
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+I/J- 1 4
+INITIAL AUXI/J 0 3
+CHANNEL: 2
+auxI: 0 auxJ: 3
+img Height: 0 img Width: 3 Mask: 1 Channel: 156
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 0 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: -1 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+I/J- 1 5
+INITIAL AUXI/J 0 4
+CHANNEL: 0
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+I/J- 1 5
+INITIAL AUXI/J 0 4
+CHANNEL: 1
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+I/J- 1 5
+INITIAL AUXI/J 0 4
+CHANNEL: 2
+auxI: 0 auxJ: 4
+img Height: 0 img Width: 4 Mask: 1 Channel: 156
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 0 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: -1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+I/J- 1 6
+INITIAL AUXI/J 0 5
+CHANNEL: 0
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 1 Channel: 156
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 0 Channel: 157
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: -1 Channel: 158
+I/J- 1 6
+INITIAL AUXI/J 0 5
+CHANNEL: 1
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 1 Channel: 156
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 0 Channel: 157
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: -1 Channel: 158
+I/J- 1 6
+INITIAL AUXI/J 0 5
+CHANNEL: 2
+auxI: 0 auxJ: 5
+img Height: 0 img Width: 5 Mask: 1 Channel: 156
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 1 Channel: 156
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 0 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 0 Channel: 157
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: -1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: -1 Channel: 158
+I/J- 1 7
+INITIAL AUXI/J 0 6
+CHANNEL: 0
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 1 Channel: 156
+auxI: 0 auxJ: 8
+img Height: 0 img Width: 8 Mask: 1 Channel: 0
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 0 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: 0 Channel: 0
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: -1 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: -1 Channel: 0
+I/J- 1 7
+INITIAL AUXI/J 0 6
+CHANNEL: 1
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 1 Channel: 156
+auxI: 0 auxJ: 8
+img Height: 0 img Width: 8 Mask: 1 Channel: 0
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 0 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: 0 Channel: 0
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: -1 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: -1 Channel: 0
+I/J- 1 7
+INITIAL AUXI/J 0 6
+CHANNEL: 2
+auxI: 0 auxJ: 6
+img Height: 0 img Width: 6 Mask: 1 Channel: 156
+auxI: 0 auxJ: 7
+img Height: 0 img Width: 7 Mask: 1 Channel: 156
+auxI: 0 auxJ: 8
+img Height: 0 img Width: 8 Mask: 1 Channel: 0
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 0 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 0 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: 0 Channel: 0
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: -1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: -1 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: -1 Channel: 0
+I/J- 2 0
+INITIAL AUXI/J 1 -1
+CHANNEL: 0
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 1 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 0 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: -1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+I/J- 2 0
+INITIAL AUXI/J 1 -1
+CHANNEL: 1
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 1 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 0 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: -1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+I/J- 2 0
+INITIAL AUXI/J 1 -1
+CHANNEL: 2
+auxI: 1 auxJ: -1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 1 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 0 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: -1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+I/J- 2 1
+INITIAL AUXI/J 1 0
+CHANNEL: 0
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 1 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 157
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 0 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 158
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: -1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+I/J- 2 1
+INITIAL AUXI/J 1 0
+CHANNEL: 1
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 1 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 157
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 0 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 158
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: -1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+I/J- 2 1
+INITIAL AUXI/J 1 0
+CHANNEL: 2
+auxI: 1 auxJ: 0
+img Height: 1 img Width: 0 Mask: 1 Channel: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 157
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 0 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 158
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: -1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+I/J- 2 2
+INITIAL AUXI/J 1 1
+CHANNEL: 0
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 0
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+I/J- 2 2
+INITIAL AUXI/J 1 1
+CHANNEL: 1
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 0
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+I/J- 2 2
+INITIAL AUXI/J 1 1
+CHANNEL: 2
+auxI: 1 auxJ: 1
+img Height: 1 img Width: 1 Mask: 1 Channel: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 0
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 0 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 158
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: -1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+I/J- 2 3
+INITIAL AUXI/J 1 2
+CHANNEL: 0
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 0
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+I/J- 2 3
+INITIAL AUXI/J 1 2
+CHANNEL: 1
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 0
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+I/J- 2 3
+INITIAL AUXI/J 1 2
+CHANNEL: 2
+auxI: 1 auxJ: 2
+img Height: 1 img Width: 2 Mask: 1 Channel: 0
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 0 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: -1 Channel: 157
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+I/J- 2 4
+INITIAL AUXI/J 1 3
+CHANNEL: 0
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+I/J- 2 4
+INITIAL AUXI/J 1 3
+CHANNEL: 1
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+I/J- 2 4
+INITIAL AUXI/J 1 3
+CHANNEL: 2
+auxI: 1 auxJ: 3
+img Height: 1 img Width: 3 Mask: 1 Channel: 157
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 0 Channel: 158
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: -1 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+I/J- 2 5
+INITIAL AUXI/J 1 4
+CHANNEL: 0
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+I/J- 2 5
+INITIAL AUXI/J 1 4
+CHANNEL: 1
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+I/J- 2 5
+INITIAL AUXI/J 1 4
+CHANNEL: 2
+auxI: 1 auxJ: 4
+img Height: 1 img Width: 4 Mask: 1 Channel: 157
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 0 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: -1 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+I/J- 2 6
+INITIAL AUXI/J 1 5
+CHANNEL: 0
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 1 Channel: 157
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 0 Channel: 158
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: -1 Channel: 157
+I/J- 2 6
+INITIAL AUXI/J 1 5
+CHANNEL: 1
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 1 Channel: 157
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 0 Channel: 158
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: -1 Channel: 157
+I/J- 2 6
+INITIAL AUXI/J 1 5
+CHANNEL: 2
+auxI: 1 auxJ: 5
+img Height: 1 img Width: 5 Mask: 1 Channel: 157
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 1 Channel: 157
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 0 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 0 Channel: 158
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: -1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: -1 Channel: 157
+I/J- 2 7
+INITIAL AUXI/J 1 6
+CHANNEL: 0
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 1 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: 1 Channel: 0
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 0 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: 0 Channel: 0
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: -1 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: -1 Channel: 0
+I/J- 2 7
+INITIAL AUXI/J 1 6
+CHANNEL: 1
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 1 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: 1 Channel: 0
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 0 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: 0 Channel: 0
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: -1 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: -1 Channel: 0
+I/J- 2 7
+INITIAL AUXI/J 1 6
+CHANNEL: 2
+auxI: 1 auxJ: 6
+img Height: 1 img Width: 6 Mask: 1 Channel: 157
+auxI: 1 auxJ: 7
+img Height: 1 img Width: 7 Mask: 1 Channel: 157
+auxI: 1 auxJ: 8
+img Height: 1 img Width: 8 Mask: 1 Channel: 0
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 0 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 0 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: 0 Channel: 0
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: -1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: -1 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: -1 Channel: 0
+I/J- 3 0
+INITIAL AUXI/J 2 -1
+CHANNEL: 0
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 0 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: -1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+I/J- 3 0
+INITIAL AUXI/J 2 -1
+CHANNEL: 1
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 0 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: -1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+I/J- 3 0
+INITIAL AUXI/J 2 -1
+CHANNEL: 2
+auxI: 2 auxJ: -1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 0 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: -1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+I/J- 3 1
+INITIAL AUXI/J 2 0
+CHANNEL: 0
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 0 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: -1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+I/J- 3 1
+INITIAL AUXI/J 2 0
+CHANNEL: 1
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 0 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: -1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+I/J- 3 1
+INITIAL AUXI/J 2 0
+CHANNEL: 2
+auxI: 2 auxJ: 0
+img Height: 2 img Width: 0 Mask: 1 Channel: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 0 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: -1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+I/J- 3 2
+INITIAL AUXI/J 2 1
+CHANNEL: 0
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 158
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 157
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+I/J- 3 2
+INITIAL AUXI/J 2 1
+CHANNEL: 1
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 158
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 157
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+I/J- 3 2
+INITIAL AUXI/J 2 1
+CHANNEL: 2
+auxI: 2 auxJ: 1
+img Height: 2 img Width: 1 Mask: 1 Channel: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 158
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 0 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 157
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: -1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+I/J- 3 3
+INITIAL AUXI/J 2 2
+CHANNEL: 0
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 2
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+I/J- 3 3
+INITIAL AUXI/J 2 2
+CHANNEL: 1
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 2
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+I/J- 3 3
+INITIAL AUXI/J 2 2
+CHANNEL: 2
+auxI: 2 auxJ: 2
+img Height: 2 img Width: 2 Mask: 1 Channel: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 2
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 0 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 157
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: -1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+I/J- 3 4
+INITIAL AUXI/J 2 3
+CHANNEL: 0
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 2
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+I/J- 3 4
+INITIAL AUXI/J 2 3
+CHANNEL: 1
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 2
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+I/J- 3 4
+INITIAL AUXI/J 2 3
+CHANNEL: 2
+auxI: 2 auxJ: 3
+img Height: 2 img Width: 3 Mask: 1 Channel: 2
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 0 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: -1 Channel: 156
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+I/J- 3 5
+INITIAL AUXI/J 2 4
+CHANNEL: 0
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+I/J- 3 5
+INITIAL AUXI/J 2 4
+CHANNEL: 1
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+I/J- 3 5
+INITIAL AUXI/J 2 4
+CHANNEL: 2
+auxI: 2 auxJ: 4
+img Height: 2 img Width: 4 Mask: 1 Channel: 158
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 0 Channel: 157
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: -1 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+I/J- 3 6
+INITIAL AUXI/J 2 5
+CHANNEL: 0
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 1 Channel: 158
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 0 Channel: 157
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: -1 Channel: 156
+I/J- 3 6
+INITIAL AUXI/J 2 5
+CHANNEL: 1
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 1 Channel: 158
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 0 Channel: 157
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: -1 Channel: 156
+I/J- 3 6
+INITIAL AUXI/J 2 5
+CHANNEL: 2
+auxI: 2 auxJ: 5
+img Height: 2 img Width: 5 Mask: 1 Channel: 158
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 1 Channel: 158
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 0 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 0 Channel: 157
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: -1 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: -1 Channel: 156
+I/J- 3 7
+INITIAL AUXI/J 2 6
+CHANNEL: 0
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 1 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: 1 Channel: 0
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 0 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: 0 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: -1 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: -1 Channel: 0
+I/J- 3 7
+INITIAL AUXI/J 2 6
+CHANNEL: 1
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 1 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: 1 Channel: 0
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 0 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: 0 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: -1 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: -1 Channel: 0
+I/J- 3 7
+INITIAL AUXI/J 2 6
+CHANNEL: 2
+auxI: 2 auxJ: 6
+img Height: 2 img Width: 6 Mask: 1 Channel: 158
+auxI: 2 auxJ: 7
+img Height: 2 img Width: 7 Mask: 1 Channel: 158
+auxI: 2 auxJ: 8
+img Height: 2 img Width: 8 Mask: 1 Channel: 0
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 0 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 0 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: 0 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: -1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: -1 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: -1 Channel: 0
+I/J- 4 0
+INITIAL AUXI/J 3 -1
+CHANNEL: 0
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 0 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: -1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+I/J- 4 0
+INITIAL AUXI/J 3 -1
+CHANNEL: 1
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 0 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: -1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+I/J- 4 0
+INITIAL AUXI/J 3 -1
+CHANNEL: 2
+auxI: 3 auxJ: -1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 0 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: -1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+I/J- 4 1
+INITIAL AUXI/J 3 0
+CHANNEL: 0
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 0 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: -1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+I/J- 4 1
+INITIAL AUXI/J 3 0
+CHANNEL: 1
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 0 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: -1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+I/J- 4 1
+INITIAL AUXI/J 3 0
+CHANNEL: 2
+auxI: 3 auxJ: 0
+img Height: 3 img Width: 0 Mask: 1 Channel: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 0 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: -1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+I/J- 4 2
+INITIAL AUXI/J 3 1
+CHANNEL: 0
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+I/J- 4 2
+INITIAL AUXI/J 3 1
+CHANNEL: 1
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+I/J- 4 2
+INITIAL AUXI/J 3 1
+CHANNEL: 2
+auxI: 3 auxJ: 1
+img Height: 3 img Width: 1 Mask: 1 Channel: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 0 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: -1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+I/J- 4 3
+INITIAL AUXI/J 3 2
+CHANNEL: 0
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 157
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 156
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+I/J- 4 3
+INITIAL AUXI/J 3 2
+CHANNEL: 1
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 157
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 156
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+I/J- 4 3
+INITIAL AUXI/J 3 2
+CHANNEL: 2
+auxI: 3 auxJ: 2
+img Height: 3 img Width: 2 Mask: 1 Channel: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 157
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 0 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 156
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: -1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+I/J- 4 4
+INITIAL AUXI/J 3 3
+CHANNEL: 0
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 0
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+I/J- 4 4
+INITIAL AUXI/J 3 3
+CHANNEL: 1
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 0
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+I/J- 4 4
+INITIAL AUXI/J 3 3
+CHANNEL: 2
+auxI: 3 auxJ: 3
+img Height: 3 img Width: 3 Mask: 1 Channel: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 0
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 0 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 156
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: -1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+I/J- 4 5
+INITIAL AUXI/J 3 4
+CHANNEL: 0
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 0
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+I/J- 4 5
+INITIAL AUXI/J 3 4
+CHANNEL: 1
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 0
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+I/J- 4 5
+INITIAL AUXI/J 3 4
+CHANNEL: 2
+auxI: 3 auxJ: 4
+img Height: 3 img Width: 4 Mask: 1 Channel: 0
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 0 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: -1 Channel: 155
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+I/J- 4 6
+INITIAL AUXI/J 3 5
+CHANNEL: 0
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 1 Channel: 157
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 0 Channel: 156
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: -1 Channel: 155
+I/J- 4 6
+INITIAL AUXI/J 3 5
+CHANNEL: 1
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 1 Channel: 157
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 0 Channel: 156
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: -1 Channel: 155
+I/J- 4 6
+INITIAL AUXI/J 3 5
+CHANNEL: 2
+auxI: 3 auxJ: 5
+img Height: 3 img Width: 5 Mask: 1 Channel: 157
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 1 Channel: 157
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 0 Channel: 156
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 0 Channel: 156
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: -1 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: -1 Channel: 155
+I/J- 4 7
+INITIAL AUXI/J 3 6
+CHANNEL: 0
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 1 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 0 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: 0 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: -1 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: -1 Channel: 0
+I/J- 4 7
+INITIAL AUXI/J 3 6
+CHANNEL: 1
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 1 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 0 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: 0 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: -1 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: -1 Channel: 0
+I/J- 4 7
+INITIAL AUXI/J 3 6
+CHANNEL: 2
+auxI: 3 auxJ: 6
+img Height: 3 img Width: 6 Mask: 1 Channel: 157
+auxI: 3 auxJ: 7
+img Height: 3 img Width: 7 Mask: 1 Channel: 157
+auxI: 3 auxJ: 8
+img Height: 3 img Width: 8 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 0 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 0 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: 0 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: -1 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: -1 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: -1 Channel: 0
+I/J- 5 0
+INITIAL AUXI/J 4 -1
+CHANNEL: 0
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: -1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+I/J- 5 0
+INITIAL AUXI/J 4 -1
+CHANNEL: 1
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: -1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+I/J- 5 0
+INITIAL AUXI/J 4 -1
+CHANNEL: 2
+auxI: 4 auxJ: -1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: -1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+I/J- 5 1
+INITIAL AUXI/J 4 0
+CHANNEL: 0
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: -1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+I/J- 5 1
+INITIAL AUXI/J 4 0
+CHANNEL: 1
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: -1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+I/J- 5 1
+INITIAL AUXI/J 4 0
+CHANNEL: 2
+auxI: 4 auxJ: 0
+img Height: 4 img Width: 0 Mask: 1 Channel: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 0 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: -1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+I/J- 5 2
+INITIAL AUXI/J 4 1
+CHANNEL: 0
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+I/J- 5 2
+INITIAL AUXI/J 4 1
+CHANNEL: 1
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+I/J- 5 2
+INITIAL AUXI/J 4 1
+CHANNEL: 2
+auxI: 4 auxJ: 1
+img Height: 4 img Width: 1 Mask: 1 Channel: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 0 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: -1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+I/J- 5 3
+INITIAL AUXI/J 4 2
+CHANNEL: 0
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+I/J- 5 3
+INITIAL AUXI/J 4 2
+CHANNEL: 1
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+I/J- 5 3
+INITIAL AUXI/J 4 2
+CHANNEL: 2
+auxI: 4 auxJ: 2
+img Height: 4 img Width: 2 Mask: 1 Channel: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 0 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: -1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+I/J- 5 4
+INITIAL AUXI/J 4 3
+CHANNEL: 0
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 156
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 155
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+I/J- 5 4
+INITIAL AUXI/J 4 3
+CHANNEL: 1
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 156
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 155
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+I/J- 5 4
+INITIAL AUXI/J 4 3
+CHANNEL: 2
+auxI: 4 auxJ: 3
+img Height: 4 img Width: 3 Mask: 1 Channel: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 156
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 0 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 155
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: -1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+I/J- 5 5
+INITIAL AUXI/J 4 4
+CHANNEL: 0
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+I/J- 5 5
+INITIAL AUXI/J 4 4
+CHANNEL: 1
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+I/J- 5 5
+INITIAL AUXI/J 4 4
+CHANNEL: 2
+auxI: 4 auxJ: 4
+img Height: 4 img Width: 4 Mask: 1 Channel: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 0 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 155
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: -1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+I/J- 5 6
+INITIAL AUXI/J 4 5
+CHANNEL: 0
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 1 Channel: 156
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 0 Channel: 155
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: -1 Channel: 156
+I/J- 5 6
+INITIAL AUXI/J 4 5
+CHANNEL: 1
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 1 Channel: 156
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 0 Channel: 155
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: -1 Channel: 156
+I/J- 5 6
+INITIAL AUXI/J 4 5
+CHANNEL: 2
+auxI: 4 auxJ: 5
+img Height: 4 img Width: 5 Mask: 1 Channel: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 1 Channel: 156
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 0 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 0 Channel: 155
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: -1 Channel: 156
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: -1 Channel: 156
+I/J- 5 7
+INITIAL AUXI/J 4 6
+CHANNEL: 0
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 1 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 0 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: -1 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: -1 Channel: 0
+I/J- 5 7
+INITIAL AUXI/J 4 6
+CHANNEL: 1
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 1 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 0 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: -1 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: -1 Channel: 0
+I/J- 5 7
+INITIAL AUXI/J 4 6
+CHANNEL: 2
+auxI: 4 auxJ: 6
+img Height: 4 img Width: 6 Mask: 1 Channel: 156
+auxI: 4 auxJ: 7
+img Height: 4 img Width: 7 Mask: 1 Channel: 156
+auxI: 4 auxJ: 8
+img Height: 4 img Width: 8 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 0 Channel: 155
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 0 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: -1 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: -1 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: -1 Channel: 0
+I/J- 6 0
+INITIAL AUXI/J 5 -1
+CHANNEL: 0
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 0 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: -1
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: -1 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+I/J- 6 0
+INITIAL AUXI/J 5 -1
+CHANNEL: 1
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 0 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: -1
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: -1 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+I/J- 6 0
+INITIAL AUXI/J 5 -1
+CHANNEL: 2
+auxI: 5 auxJ: -1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 0 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: -1
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: -1 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+I/J- 6 1
+INITIAL AUXI/J 5 0
+CHANNEL: 0
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 0 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: -1 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+I/J- 6 1
+INITIAL AUXI/J 5 0
+CHANNEL: 1
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 0 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: -1 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+I/J- 6 1
+INITIAL AUXI/J 5 0
+CHANNEL: 2
+auxI: 5 auxJ: 0
+img Height: 5 img Width: 0 Mask: 1 Channel: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 0 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: -1 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+I/J- 6 2
+INITIAL AUXI/J 5 1
+CHANNEL: 0
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+I/J- 6 2
+INITIAL AUXI/J 5 1
+CHANNEL: 1
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+I/J- 6 2
+INITIAL AUXI/J 5 1
+CHANNEL: 2
+auxI: 5 auxJ: 1
+img Height: 5 img Width: 1 Mask: 1 Channel: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 0 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: -1 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+I/J- 6 3
+INITIAL AUXI/J 5 2
+CHANNEL: 0
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+I/J- 6 3
+INITIAL AUXI/J 5 2
+CHANNEL: 1
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+I/J- 6 3
+INITIAL AUXI/J 5 2
+CHANNEL: 2
+auxI: 5 auxJ: 2
+img Height: 5 img Width: 2 Mask: 1 Channel: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 0 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: -1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+I/J- 6 4
+INITIAL AUXI/J 5 3
+CHANNEL: 0
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+I/J- 6 4
+INITIAL AUXI/J 5 3
+CHANNEL: 1
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+I/J- 6 4
+INITIAL AUXI/J 5 3
+CHANNEL: 2
+auxI: 5 auxJ: 3
+img Height: 5 img Width: 3 Mask: 1 Channel: 6
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 0 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: -1 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+I/J- 6 5
+INITIAL AUXI/J 5 4
+CHANNEL: 0
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 155
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 156
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+I/J- 6 5
+INITIAL AUXI/J 5 4
+CHANNEL: 1
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 155
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 156
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+I/J- 6 5
+INITIAL AUXI/J 5 4
+CHANNEL: 2
+auxI: 5 auxJ: 4
+img Height: 5 img Width: 4 Mask: 1 Channel: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 155
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 0 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 156
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: -1 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+I/J- 6 6
+INITIAL AUXI/J 5 5
+CHANNEL: 0
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 0
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 1 Channel: 155
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 0 Channel: 156
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: -1 Channel: 157
+I/J- 6 6
+INITIAL AUXI/J 5 5
+CHANNEL: 1
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 0
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 1 Channel: 155
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 0 Channel: 156
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: -1 Channel: 157
+I/J- 6 6
+INITIAL AUXI/J 5 5
+CHANNEL: 2
+auxI: 5 auxJ: 5
+img Height: 5 img Width: 5 Mask: 1 Channel: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 0
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 1 Channel: 155
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 0 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 156
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 0 Channel: 156
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: -1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: -1 Channel: 157
+I/J- 6 7
+INITIAL AUXI/J 5 6
+CHANNEL: 0
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 0
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 1 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 0 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: -1 Channel: 157
+auxI: 7 auxJ: 8
+img Height: 7 img Width: 8 Mask: -1 Channel: 0
+I/J- 6 7
+INITIAL AUXI/J 5 6
+CHANNEL: 1
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 0
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 1 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 0 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: -1 Channel: 157
+auxI: 7 auxJ: 8
+img Height: 7 img Width: 8 Mask: -1 Channel: 0
+I/J- 6 7
+INITIAL AUXI/J 5 6
+CHANNEL: 2
+auxI: 5 auxJ: 6
+img Height: 5 img Width: 6 Mask: 1 Channel: 0
+auxI: 5 auxJ: 7
+img Height: 5 img Width: 7 Mask: 1 Channel: 155
+auxI: 5 auxJ: 8
+img Height: 5 img Width: 8 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 0 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 0 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: -1 Channel: 157
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: -1 Channel: 157
+auxI: 7 auxJ: 8
+img Height: 7 img Width: 8 Mask: -1 Channel: 0
+I/J- 7 0
+INITIAL AUXI/J 6 -1
+CHANNEL: 0
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 7 auxJ: -1
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: 0 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 8 auxJ: -1
+auxI: 8 auxJ: 0
+img Height: 8 img Width: 0 Mask: -1 Channel: 0
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+I/J- 7 0
+INITIAL AUXI/J 6 -1
+CHANNEL: 1
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 7 auxJ: -1
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: 0 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 8 auxJ: -1
+auxI: 8 auxJ: 0
+img Height: 8 img Width: 0 Mask: -1 Channel: 0
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+I/J- 7 0
+INITIAL AUXI/J 6 -1
+CHANNEL: 2
+auxI: 6 auxJ: -1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 7 auxJ: -1
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: 0 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 8 auxJ: -1
+auxI: 8 auxJ: 0
+img Height: 8 img Width: 0 Mask: -1 Channel: 0
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+I/J- 7 1
+INITIAL AUXI/J 6 0
+CHANNEL: 0
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: 0 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 8 auxJ: 0
+img Height: 8 img Width: 0 Mask: -1 Channel: 0
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+I/J- 7 1
+INITIAL AUXI/J 6 0
+CHANNEL: 1
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: 0 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 8 auxJ: 0
+img Height: 8 img Width: 0 Mask: -1 Channel: 0
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+I/J- 7 1
+INITIAL AUXI/J 6 0
+CHANNEL: 2
+auxI: 6 auxJ: 0
+img Height: 6 img Width: 0 Mask: 1 Channel: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 7 auxJ: 0
+img Height: 7 img Width: 0 Mask: 0 Channel: 0
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 8 auxJ: 0
+img Height: 8 img Width: 0 Mask: -1 Channel: 0
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+I/J- 7 2
+INITIAL AUXI/J 6 1
+CHANNEL: 0
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+I/J- 7 2
+INITIAL AUXI/J 6 1
+CHANNEL: 1
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+I/J- 7 2
+INITIAL AUXI/J 6 1
+CHANNEL: 2
+auxI: 6 auxJ: 1
+img Height: 6 img Width: 1 Mask: 1 Channel: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 7 auxJ: 1
+img Height: 7 img Width: 1 Mask: 0 Channel: 0
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 8 auxJ: 1
+img Height: 8 img Width: 1 Mask: -1 Channel: 0
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+I/J- 7 3
+INITIAL AUXI/J 6 2
+CHANNEL: 0
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+I/J- 7 3
+INITIAL AUXI/J 6 2
+CHANNEL: 1
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+I/J- 7 3
+INITIAL AUXI/J 6 2
+CHANNEL: 2
+auxI: 6 auxJ: 2
+img Height: 6 img Width: 2 Mask: 1 Channel: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 7 auxJ: 2
+img Height: 7 img Width: 2 Mask: 0 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 8 auxJ: 2
+img Height: 8 img Width: 2 Mask: -1 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+I/J- 7 4
+INITIAL AUXI/J 6 3
+CHANNEL: 0
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+I/J- 7 4
+INITIAL AUXI/J 6 3
+CHANNEL: 1
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+I/J- 7 4
+INITIAL AUXI/J 6 3
+CHANNEL: 2
+auxI: 6 auxJ: 3
+img Height: 6 img Width: 3 Mask: 1 Channel: 6
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 7 auxJ: 3
+img Height: 7 img Width: 3 Mask: 0 Channel: 4
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 8 auxJ: 3
+img Height: 8 img Width: 3 Mask: -1 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+I/J- 7 5
+INITIAL AUXI/J 6 4
+CHANNEL: 0
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+I/J- 7 5
+INITIAL AUXI/J 6 4
+CHANNEL: 1
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+I/J- 7 5
+INITIAL AUXI/J 6 4
+CHANNEL: 2
+auxI: 6 auxJ: 4
+img Height: 6 img Width: 4 Mask: 1 Channel: 6
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 7 auxJ: 4
+img Height: 7 img Width: 4 Mask: 0 Channel: 4
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 8 auxJ: 4
+img Height: 8 img Width: 4 Mask: -1 Channel: 0
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+I/J- 7 6
+INITIAL AUXI/J 6 5
+CHANNEL: 0
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 1 Channel: 156
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: 0 Channel: 157
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+auxI: 8 auxJ: 7
+img Height: 8 img Width: 7 Mask: -1 Channel: 0
+I/J- 7 6
+INITIAL AUXI/J 6 5
+CHANNEL: 1
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 1 Channel: 156
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: 0 Channel: 157
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+auxI: 8 auxJ: 7
+img Height: 8 img Width: 7 Mask: -1 Channel: 0
+I/J- 7 6
+INITIAL AUXI/J 6 5
+CHANNEL: 2
+auxI: 6 auxJ: 5
+img Height: 6 img Width: 5 Mask: 1 Channel: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 1 Channel: 156
+auxI: 7 auxJ: 5
+img Height: 7 img Width: 5 Mask: 0 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: 0 Channel: 157
+auxI: 8 auxJ: 5
+img Height: 8 img Width: 5 Mask: -1 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+auxI: 8 auxJ: 7
+img Height: 8 img Width: 7 Mask: -1 Channel: 0
+I/J- 7 7
+INITIAL AUXI/J 6 6
+CHANNEL: 0
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 1 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: 1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: 0 Channel: 157
+auxI: 7 auxJ: 8
+img Height: 7 img Width: 8 Mask: 0 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+auxI: 8 auxJ: 7
+img Height: 8 img Width: 7 Mask: -1 Channel: 0
+auxI: 8 auxJ: 8
+img Height: 8 img Width: 8 Mask: -1 Channel: 97
+I/J- 7 7
+INITIAL AUXI/J 6 6
+CHANNEL: 1
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 1 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: 1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: 0 Channel: 157
+auxI: 7 auxJ: 8
+img Height: 7 img Width: 8 Mask: 0 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+auxI: 8 auxJ: 7
+img Height: 8 img Width: 7 Mask: -1 Channel: 0
+auxI: 8 auxJ: 8
+img Height: 8 img Width: 8 Mask: -1 Channel: 0
+I/J- 7 7
+INITIAL AUXI/J 6 6
+CHANNEL: 2
+auxI: 6 auxJ: 6
+img Height: 6 img Width: 6 Mask: 1 Channel: 0
+auxI: 6 auxJ: 7
+img Height: 6 img Width: 7 Mask: 1 Channel: 156
+auxI: 6 auxJ: 8
+img Height: 6 img Width: 8 Mask: 1 Channel: 0
+auxI: 7 auxJ: 6
+img Height: 7 img Width: 6 Mask: 0 Channel: 0
+auxI: 7 auxJ: 7
+img Height: 7 img Width: 7 Mask: 0 Channel: 157
+auxI: 7 auxJ: 8
+img Height: 7 img Width: 8 Mask: 0 Channel: 0
+auxI: 8 auxJ: 6
+img Height: 8 img Width: 6 Mask: -1 Channel: 0
+auxI: 8 auxJ: 7
+img Height: 8 img Width: 7 Mask: -1 Channel: 0
+auxI: 8 auxJ: 8
+img Height: 8 img Width: 8 Mask: -1 Channel: 0
