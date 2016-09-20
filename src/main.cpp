@@ -1,8 +1,13 @@
 #include <utils.h>
 #include <imagefunctions.h>
 
-int main(int argc, char* argv[]){
+int stackFilters(int argc, char* argv[]);
+
+int main(int argc, char* argv[]) {
 	
+	return stackFilters(argc, argv);
+
+	/*
 	Utils *ut = new Utils();
 	ImageFunctions *imf = new ImageFunctions();
 
@@ -32,6 +37,35 @@ int main(int argc, char* argv[]){
 	ut->showImage(&imageOut);
 
 	delete imf;
-	delete ut;	
+	delete ut;*/
     return 0;
+
+}
+
+int stackFilters(int argc, char* argv[])
+{
+	Utils *ut = new Utils();
+	ImageFunctions *imf = new ImageFunctions();
+
+	vector<Mat*> images;
+
+	while (--argc)
+	{
+		Mat* image = new Mat;
+
+		if (ut->loadImage(argv[argc], image) == false)
+			return -1;
+
+		//ut->showImage(image);
+		images.push_back(image);
+	}
+
+	Mat imageOut;
+	imf->applyFilter(images, imageOut, ImageFunctions::MEAN);
+	ut->showImage(&imageOut);
+
+	delete imf;
+	delete ut;
+
+	return 0;
 }

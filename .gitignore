@@ -1,3 +1,6 @@
+matlab/
+matlab2/
+
 # Image files
 *.png
 *.bmp

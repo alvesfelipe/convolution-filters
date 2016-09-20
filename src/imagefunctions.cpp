@@ -170,3 +170,81 @@ void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut, bo
 		}
 	}
 }
+
+int ImageFunctions::meanApplication(vector<int>& pixels)
+{
+	int sum = 0;
+
+	for (vector<int>::iterator it = pixels.begin(); it != pixels.end(); it++)
+		sum += *it;
+
+	return sum / pixels.size();
+}
+
+int ImageFunctions::medianApplication(vector<int>& pixels)
+{
+	sort(pixels.begin(), pixels.end());
+	return pixels.size() % 2 ? pixels[pixels.size() / 2] : (pixels[pixels.size() / 2] + pixels[pixels.size() / 2 + 1]) / 2;
+}
+
+
+int ImageFunctions::modeApplication(vector<int>& pixels)
+{
+	sort(pixels.begin(), pixels.end());
+
+	vector<int> mode;
+	mode.push_back(pixels[0]);
+
+	int max = 1;
+	int count = 1;
+
+	for (int i = 1; i < pixels.size(); i++)
+	{
+		if (pixels[i] == pixels[i - 1])
+			count++;
+		else
+			count = 1;
+		
+		if (count == max)
+			mode.push_back(pixels[i]);
+		
+		else if (count > max)
+		{
+			max = count;
+
+			if (mode.size() > 1)
+			{
+				mode.clear();
+				mode.push_back(pixels[i]);
+			}
+		}
+	}
+
+	return meanApplication(mode);
+}
+
+void ImageFunctions::applyFilter(const vector<Mat*>& images, Mat& imageOut, int method)
+{
+	imageOut = images[0]->clone();
+
+	for(int i = 0; i < images[0]->rows; i++) {
+		for(int j = 0; j < images[0]->cols; j++) {
+			for (int channel = 0; channel <= 2; channel++)
+			{
+				vector<int> pixels;
+
+				for (int img = 0; img < images.size(); img++)
+					pixels.push_back(this->getChannelValue(images[img], i, j, channel));
+
+				if (method == ImageFunctions::MEAN)
+					this->editPixel(&imageOut, j, i, channel, meanApplication(pixels));
+
+				else if (method == ImageFunctions::MEDIAN)
+					this->editPixel(&imageOut, j, i, channel, medianApplication(pixels));
+
+				else if (method == ImageFunctions::MODE)
+					this->editPixel(&imageOut, j, i, channel, modeApplication(pixels));
+			}
+		}
+	}
+}
