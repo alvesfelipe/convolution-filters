@@ -5,39 +5,34 @@ int stackFilters(int argc, char* argv[]);
 
 int main(int argc, char* argv[]) {
 	
-	return stackFilters(argc, argv);
+	//return stackFilters(argc, argv);
 
-	/*
 	Utils *ut = new Utils();
 	ImageFunctions *imf = new ImageFunctions();
 
-	Mat image, imageOut;
+	if(strcmp(argv[1],"conv") == 0 || strcmp(argv[1],"conv_mean") == 0){
+		cout << "conv:" << argv[1] << endl;
+		Mat image, imageOut;
+		Mat1f mask;
 
-	if((ut->loadImage(argv[1], &image)) == false){
-		return -1;
+		if((ut->loadImage(argv[2], &image)) == false)
+			return -1;
+		
+		mask = ut->loadCSV(argv[3]);
+
+		if(strcmp(argv[1],"conv_mean") == 0){
+			imf->applyConvolution(&image, &mask, &imageOut, true); ut->showImage(&imageOut);
+		}else{
+			imf->applyConvolution(&image, &mask, &imageOut); ut->showImage(&imageOut);
+		}
+
+	}else if(strcmp(argv[1],"stack") == 0){
+		cout << "stack" << endl;
+		return stackFilters(argc, argv);
 	}
-	
-	//ut->showImage(&imageOut);
-	//cout << image.channels();
-	// imf->showPixelValue(&image, 0, 0);
-	// imf->editPixel(&image, 0, 0, 2, 255);
-	// imf->showPixelValue(&image, 0, 0);
-	// cout << imf->getChannelValue(&image, 0, 0, 2) << endl;
-	// ut->showImage(&image);
-	Mat1f mask;
-	mask = ut->loadCSV(argv[2]);
-	// cout << mask.at<float>(2,2) << endl;
-	// cout << mask.at<float>(1,1) << endl;
-	// cout << mask.channels() << endl;
-	//cout << mask.rows << mask.cols << endl;
-	// imf->applyConvolution(&image, &mask, &imageOut);
-	// ut->showImage(&imageOut);
-	
-	imf->applyConvolution(&image, &mask, &imageOut, true);
-	ut->showImage(&imageOut);
 
 	delete imf;
-	delete ut;*/
+	delete ut;
     return 0;
 
 }
@@ -50,19 +45,28 @@ int stackFilters(int argc, char* argv[])
 	vector<Mat*> images;
 
 	while (--argc)
-	{
-		Mat* image = new Mat;
+	{	
+		if(argc > 2){
+			Mat* image = new Mat;
 
-		if (ut->loadImage(argv[argc], image) == false)
-			return -1;
+			if (ut->loadImage(argv[argc], image) == false)
+				return -1;
 
-		//ut->showImage(image);
-		images.push_back(image);
+			//ut->showImage(image);
+			images.push_back(image);
+		}
 	}
 
 	Mat imageOut;
-	imf->applyFilter(images, imageOut, ImageFunctions::MEAN);
-	ut->showImage(&imageOut);
+
+	if(strcmp(argv[2],"mean") == 0)
+		imf->applyFilter(images, imageOut, ImageFunctions::MEAN); ut->showImage(&imageOut);
+	
+	if(strcmp(argv[2],"median") == 0)
+		imf->applyFilter(images, imageOut, ImageFunctions::MEDIAN); ut->showImage(&imageOut);
+
+	if(strcmp(argv[2],"mode") == 0)
+		imf->applyFilter(images, imageOut, ImageFunctions::MODE); ut->showImage(&imageOut);
 
 	delete imf;
 	delete ut;
