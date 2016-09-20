@@ -19,15 +19,18 @@ int main(int argc, char* argv[]){
 	// imf->showPixelValue(&image, 0, 0);
 	// cout << imf->getChannelValue(&image, 0, 0, 2) << endl;
 	// ut->showImage(&image);
-	Mat1f test;
-	test = ut->loadCSV(argv[2]);
-	// cout << test.at<float>(2,2) << endl;
-	// cout << test.at<float>(1,1) << endl;
-	// cout << test.channels() << endl;
-	//cout << test.rows << test.cols << endl;
-	imf->applyConvolution(&image, &test, &imageOut);
-	ut->showImage(&imageOut);
+	Mat1f mask;
+	mask = ut->loadCSV(argv[2]);
+	// cout << mask.at<float>(2,2) << endl;
+	// cout << mask.at<float>(1,1) << endl;
+	// cout << mask.channels() << endl;
+	//cout << mask.rows << mask.cols << endl;
+	// imf->applyConvolution(&image, &mask, &imageOut);
+	// ut->showImage(&imageOut);
 	
+	imf->applyConvolution(&image, &mask, &imageOut, true);
+	ut->showImage(&imageOut);
+
 	delete imf;
 	delete ut;	
     return 0;

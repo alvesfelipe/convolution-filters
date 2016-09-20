@@ -14,6 +14,7 @@ class ImageFunctions{
 		void showPixelValue(Mat *image, const int x, const int y);
 		int getChannelValue(Mat *image, const int x, const int y, const int channel);
 		void applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut);
+		void applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut, bool mean);
 };
 
 #endif
