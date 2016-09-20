@@ -50,3 +50,27 @@ Mat1f Utils::loadCSV(string file){
 	return mask;
 
 }
+
+Mat1f* Utils::genGaussianMask(float sigma, int n)
+{
+	Mat1f* mask = new Mat1f;
+
+	float common = 2 * sigma * sigma;
+	float factor = 1 / sqrt(M_PI * common);
+
+	for (int i = 0; i < n; i++)
+	{
+		vector<float> row;
+
+		for (int j = 0; j < n; j++)
+			row.push_back(factor * exp(-((i * i + j * j) / common)));
+		
+		for (int j = 0; j < n; j++)
+			cout << row[j] << " ";
+		cout << endl;
+
+		mask->push_back(Mat1f(row).t());
+	}
+
+	return mask;
+}

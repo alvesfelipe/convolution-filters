@@ -24,6 +24,7 @@ class Utils{
 		bool loadImage(string file, Mat *image);
 		void showImage(Mat *image);
 		Mat1f loadCSV(string file);
+		Mat1f* genGaussianMask(float sigma, int n);
 	
 };
 

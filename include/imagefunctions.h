@@ -2,6 +2,7 @@
 #define _IMAGEFUNCTIONS_H
 
 #include <algorithm>
+#include <math.h>
 #include <utils.h>
 #include <iso646.h>
 
@@ -21,7 +22,6 @@ class ImageFunctions{
 		void applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut);
 		void applyConvolution(Mat *image, Mat *imageOut, int m, int n);
 		void optimumMeanConvolution(Mat *image, Mat *imageOut, int m, int n);
-
 
 		int meanApplication(vector<int>& pixels);
 		int medianApplication(vector<int>& pixels);

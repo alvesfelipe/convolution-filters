@@ -10,7 +10,11 @@ int main(int argc, char* argv[]) {
 	Utils *ut = new Utils();
 	ImageFunctions *imf = new ImageFunctions();
 
-	if(strcmp(argv[1],"conv") == 0 || strcmp(argv[1],"conv_mean") == 0 || strcmp(argv[1],"conv_mean_optimum") == 0){
+	if(strcmp(argv[1],"stack") == 0){
+		cout << "stack" << endl;
+		return stackFilters(argc, argv);
+	}
+	else{
 		cout << "conv:" << argv[1] << endl;
 		Mat image, imageOut;
 		Mat1f mask;
@@ -20,18 +24,22 @@ int main(int argc, char* argv[]) {
 
 		if(strcmp(argv[1],"conv_mean") == 0){
 			imf->applyConvolution(&image, &imageOut, atoi(argv[3]), atoi(argv[4]));
-		}else if(strcmp(argv[1],"conv") == 0){
+		}
+		else if(strcmp(argv[1],"conv") == 0){
 			mask = ut->loadCSV(argv[3]);
 			imf->applyConvolution(&image, &mask, &imageOut);
-		}else if(strcmp(argv[1],"conv_mean_optimum") == 0){
+		}
+		else if(strcmp(argv[1],"conv_mean_optimum") == 0){
 			imf->optimumMeanConvolution(&image, &imageOut, atoi(argv[3]), atoi(argv[4]));
 		}
+		else if(strcmp(argv[1],"gaussian") == 0){
+			Mat1f* mask = ut->genGaussianMask(atof(argv[3]), atoi(argv[4]));
+			imf->applyConvolution(&image, mask, &imageOut);
+			delete mask;
+		}
+		else return -1;
 
 		ut->showImage(&imageOut);
-
-	}else if(strcmp(argv[1],"stack") == 0){
-		cout << "stack" << endl;
-		return stackFilters(argc, argv);
 	}
 
 	delete imf;
