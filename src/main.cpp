@@ -10,21 +10,24 @@ int main(int argc, char* argv[]) {
 	Utils *ut = new Utils();
 	ImageFunctions *imf = new ImageFunctions();
 
-	if(strcmp(argv[1],"conv") == 0 || strcmp(argv[1],"conv_mean") == 0){
+	if(strcmp(argv[1],"conv") == 0 || strcmp(argv[1],"conv_mean") == 0 || strcmp(argv[1],"conv_mean_optimum") == 0){
 		cout << "conv:" << argv[1] << endl;
 		Mat image, imageOut;
 		Mat1f mask;
 
 		if((ut->loadImage(argv[2], &image)) == false)
 			return -1;
-		
-		mask = ut->loadCSV(argv[3]);
 
 		if(strcmp(argv[1],"conv_mean") == 0){
-			imf->applyConvolution(&image, &mask, &imageOut, true); ut->showImage(&imageOut);
-		}else{
-			imf->applyConvolution(&image, &mask, &imageOut); ut->showImage(&imageOut);
+			imf->applyConvolution(&image, &imageOut, atoi(argv[3]), atoi(argv[4]));
+		}else if(strcmp(argv[1],"conv") == 0){
+			mask = ut->loadCSV(argv[3]);
+			imf->applyConvolution(&image, &mask, &imageOut);
+		}else if(strcmp(argv[1],"conv_mean_optimum") == 0){
+			imf->optimumMeanConvolution(&image, &imageOut, atoi(argv[3]), atoi(argv[4]));
 		}
+
+		ut->showImage(&imageOut);
 
 	}else if(strcmp(argv[1],"stack") == 0){
 		cout << "stack" << endl;

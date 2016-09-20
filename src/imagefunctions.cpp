@@ -62,7 +62,6 @@ int ImageFunctions::getChannelValue(Mat *image, const int x, const int y, const 
 
 void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut){
 
-	float gx, gy, gz;
 	float maskCenter, norm = 0;
 	int g = 0, auxI, auxJ;
 
@@ -116,38 +115,33 @@ void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut){
 	}
 }
 
-void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut, bool mean){
+void ImageFunctions::applyConvolution(Mat *image, Mat *imageOut, int m, int n){
 
-	float gx, gy, gz;
-	float maskCenter, g = 0, result;
+	float maskCenter, g = 0, result, norm;
 	int auxI, auxJ;
 
 	*imageOut = image->clone();
 
-	result = (1.0/(mask->cols * mask->rows));
-	
-	maskCenter = mask->rows/2;	
-	//cout << "MASK CENTER: " << maskCenter << endl;
+	result = (1.0/(n * m));
+	cout << "result " << result << endl;
+	maskCenter = m/2.0;
+	cout << "maskCenter " << maskCenter << endl;
+
 	for(int imageHeight = 0; imageHeight < image->rows; imageHeight++)
 	{
 		for(int imageWidth = 0; imageWidth < image->cols; imageWidth++)
 		{
 			for (int channel = 0; channel <= 2; channel++)
-			{	//cout << "I/J- " << imageHeight << " " << imageWidth << endl;
+			{
 				auxI = imageHeight - maskCenter; auxJ = imageWidth - maskCenter;
-				//cout << "INITIAL AUXI/J " << auxI << " " << auxJ << endl;
-				//cout << "CHANNEL: " << channel << endl; 
-				for(int maskHeight = mask->rows - 1; maskHeight >= 0 ; maskHeight--)
+
+				for(int maskHeight = m - 1; maskHeight >= 0 ; maskHeight--)
 				{
-					for(int maskWidth = mask->cols - 1; maskWidth >= 0; maskWidth--)
+					for(int maskWidth = n - 1; maskWidth >= 0; maskWidth--)
 					{	
-						//cout << "auxI: " << auxI  << " auxJ: " << auxJ << endl;
 						if((auxI) >= 0 && (auxJ) >= 0)
 						{
 							g += (this->getChannelValue(image, auxI, auxJ, channel) * result);
-							//cout << "G: " << g << endl;
-							//cout << "img Height: " << auxI << " img Width: " << auxJ << " Mask: " << mask->at<float>(maskHeight, maskWidth) << " Channel: " << this->getChannelValue(image, auxI, auxJ, channel) << endl;
-							//norm += mask->at<float>(maskHeight, maskWidth);
 						}
 						auxJ ++;
 					}
@@ -155,12 +149,7 @@ void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut, bo
 					auxI ++;
 				}
 
-				// if (norm > 0)
-				// 	g /= norm;
-
 				g = abs(g);
-
-				//if (g < 0){g = 0;}
 				if (g > 255){g = 255;}
 
 				this->editPixel(imageOut, imageWidth, imageHeight, channel, g);
@@ -169,6 +158,15 @@ void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut, bo
 			}
 		}
 	}
+}
+
+void ImageFunctions::optimumMeanConvolution(Mat *image, Mat *imageOut, int m, int n){
+	Mat imageOutAux;
+
+	this->applyConvolution(image, imageOut, m, 1);
+	this->applyConvolution(imageOut, &imageOutAux, 1, n);
+
+	*imageOut = imageOutAux.clone();
 }
 
 int ImageFunctions::meanApplication(vector<int>& pixels)
