@@ -44,29 +44,29 @@ int stackFilters(int argc, char* argv[])
 
 	vector<Mat*> images;
 
-	while (--argc)
+	while (--argc >= 3)
 	{	
-		if(argc > 2){
-			Mat* image = new Mat;
+		Mat* image = new Mat;
 
-			if (ut->loadImage(argv[argc], image) == false)
-				return -1;
+		if (ut->loadImage(argv[argc], image) == false)
+			return -1;
 
-			//ut->showImage(image);
-			images.push_back(image);
-		}
+		//ut->showImage(image);
+		images.push_back(image);
 	}
 
 	Mat imageOut;
 
-	if(strcmp(argv[2],"mean") == 0)
-		imf->applyFilter(images, imageOut, ImageFunctions::MEAN); ut->showImage(&imageOut);
+	if (strcmp(argv[2], "mean") == 0)
+		imf->applyFilter(images, imageOut, ImageFunctions::MEAN);
 	
-	if(strcmp(argv[2],"median") == 0)
-		imf->applyFilter(images, imageOut, ImageFunctions::MEDIAN); ut->showImage(&imageOut);
+	else if (strcmp(argv[2], "median") == 0)
+		imf->applyFilter(images, imageOut, ImageFunctions::MEDIAN);
 
-	if(strcmp(argv[2],"mode") == 0)
-		imf->applyFilter(images, imageOut, ImageFunctions::MODE); ut->showImage(&imageOut);
+	else if (strcmp(argv[2], "mode") == 0)
+		imf->applyFilter(images, imageOut, ImageFunctions::MODE);
+
+	ut->showImage(&imageOut);
 
 	delete imf;
 	delete ut;
