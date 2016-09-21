@@ -37,6 +37,9 @@ int main(int argc, char* argv[]) {
 			imf->applyConvolution(&image, mask, &imageOut);
 			delete mask;
 		}
+		else if(strcmp(argv[1],"hist_exp") == 0){
+			imf->histogramExpanding(image, imageOut);
+		}
 		else return -1;
 
 		ut->showImage(&imageOut);
