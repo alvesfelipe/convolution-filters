@@ -8,14 +8,14 @@ void ImageFunctions::editPixel(Mat *image, const int x, const int y, const int c
 	if(0<=x && x<=image->rows && 0<=y && y<=image->cols)
 	{
 		
-		Vec3b intensity = image->at<Vec3b>(Point(x, y));
+		Vec3b intensity = image->at<Vec3b>((x, y));
 	    if(channel == 0)
 	    	intensity.val[0] = value;
 	    if(channel == 1)
 	    	intensity.val[1] = value;
 	    if(channel == 2)
 	    	intensity.val[2] = value;
-	    image->at<Vec3b>(Point(x,y)) = intensity;
+	    image->at<Vec3b>((x,y)) = intensity;
 	    
 	    return;
 	}
@@ -107,7 +107,7 @@ void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut){
 				//if (g < 0){g = 0;}
 				if (g > 255){g = 255;}
 
-				this->editPixel(imageOut, imageWidth, imageHeight, channel, g);
+				this->editPixel(imageOut, imageHeight, imageWidth, channel, g);
 				
 				auxI = 0; auxJ = 0; g = 0, norm = 0;
 			}
@@ -152,7 +152,7 @@ void ImageFunctions::applyConvolution(Mat *image, Mat *imageOut, int m, int n){
 				g = abs(g);
 				if (g > 255){g = 255;}
 
-				this->editPixel(imageOut, imageWidth, imageHeight, channel, g);
+				this->editPixel(imageOut, imageHeight, imageWidth, channel, g);
 				
 				auxI = 0; auxJ = 0; g = 0;
 			}
@@ -235,14 +235,53 @@ void ImageFunctions::applyFilter(const vector<Mat*>& images, Mat& imageOut, int 
 					pixels.push_back(this->getChannelValue(images[img], i, j, channel));
 
 				if (method == ImageFunctions::MEAN)
-					this->editPixel(&imageOut, j, i, channel, meanApplication(pixels));
+					this->editPixel(&imageOut, i, j, channel, meanApplication(pixels));
 
 				else if (method == ImageFunctions::MEDIAN)
-					this->editPixel(&imageOut, j, i, channel, medianApplication(pixels));
+					this->editPixel(&imageOut, i, j, channel, medianApplication(pixels));
 
 				else if (method == ImageFunctions::MODE)
-					this->editPixel(&imageOut, j, i, channel, modeApplication(pixels));
+					this->editPixel(&imageOut, i, j, channel, modeApplication(pixels));
 			}
 		}
 	}
+}
+
+void ImageFunctions::histogramEqualization(Mat *image, Mat *imageOut){
+
+	*imageOut = image->clone();
+	
+	int occurrence[256]{0}, cumulative[256]{0}, scale[256]{0};
+	int channel = 0;
+
+	int sizeImage = image->rows * image->cols;
+	float alpha = 255.0/sizeImage;
+
+	for(int imageHeight = 0; imageHeight < image->rows; imageHeight++)
+	{
+		for(int imageWidth = 0; imageWidth < image->cols; imageWidth++)
+		{
+			occurrence[this->getChannelValue(image, imageHeight, imageWidth, 0)]++;
+		}
+	}
+
+	for (int i = 1; i < 256; i++)
+	{
+		cumulative[i] = occurrence[i] + cumulative[i-1];
+	}
+
+	for (int i = 0; i < 256; i++)
+	{ 	
+		scale[i] = cvRound((double)cumulative[i] * alpha);
+	}
+
+	for(int imageHeight = 0; imageHeight < image->rows; imageHeight++)
+	{
+		for(int imageWidth = 0; imageWidth < image->cols*4; imageWidth++)
+		{	
+			imageOut->at<uchar>(imageHeight, imageWidth) = saturate_cast<uchar>(scale[image->at<uchar>(imageHeight, imageWidth)]);
+		}
+	}
+	cout << getChannelValue(image, 0, 0, 0) << endl;
+	cout << getChannelValue(imageOut, 0, 0, 0) << endl;
 }

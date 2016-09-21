@@ -28,6 +28,8 @@ class ImageFunctions{
 		int modeApplication(vector<int>& pixels);
 		void applyFilter(const vector<Mat*>& images, Mat& imageOut, int method);
 
+		void histogramEqualization(Mat *image, Mat *imageOut);
+
 };
 
 #endif

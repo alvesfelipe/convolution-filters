@@ -36,9 +36,13 @@ int main(int argc, char* argv[]) {
 			Mat1f* mask = ut->genGaussianMask(atof(argv[3]), atoi(argv[4]));
 			imf->applyConvolution(&image, mask, &imageOut);
 			delete mask;
+		}else if(strcmp(argv[1],"histogram_eq") == 0){
+			imf->histogramEqualization(&image, &imageOut);
 		}
-		else return -1;
 
+
+		else return -1;
+		
 		ut->showImage(&imageOut);
 	}
 
