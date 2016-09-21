@@ -4,60 +4,36 @@ ImageFunctions::ImageFunctions(){}
 
 void ImageFunctions::editPixel(Mat *image, const int x, const int y, const int channel, const int value)
 {
-
-	if(0<=x && x<=image->rows && 0<=y && y<=image->cols)
+	if((x < 0 || x >= image->rows) || (y < 0 || y >= image->cols))
+		cout << "ERROR, THIS PIXEL DOESN'T EXISTS" << endl;
+	else
 	{
-		
-		Vec3b intensity = image->at<Vec3b>((x, y));
-	    if(channel == 0)
-	    	intensity.val[0] = value;
-	    if(channel == 1)
-	    	intensity.val[1] = value;
-	    if(channel == 2)
-	    	intensity.val[2] = value;
-	    image->at<Vec3b>((x,y)) = intensity;
-	    
-	    return;
+		Vec3b intensity = image->at<Vec3b>(x, y);
+	    intensity.val[channel] = value;
+	    image->at<Vec3b>(x,y) = intensity;
 	}
-
-	cout << "ERROR, THIS PIXEL DOESN'T EXISTS" << endl;
 }
 
 void ImageFunctions::showPixelValue(Mat *image, const int x, const int y)
 {
-	
-	if(0<=x && x<=image->rows && 0<=y && y<=image->cols)
+	if(x >= 0 && x < image->rows && y >= 0 && y < image->cols)
 	{
-
 		Vec3b intensity = image->at<Vec3b>(x, y);
 		int r = intensity.val[2];
 		int g = intensity.val[1];
 		int b = intensity.val[0];
     	cout << "R: " << r << " G: " << g << " B: " << b << endl;
-		
-		return;
 	}
-
-	cout << "ERROR, THIS PIXEL DOESN'T EXISTS" << endl;
+	else cout << "ERROR, THIS PIXEL DOESN'T EXISTS" << endl;
 }
 
-int ImageFunctions::getChannelValue(Mat *image, const int x, const int y, const int channel){
-
-	if(0<=x && x<=image->rows && 0<=y && y<=image->cols)
-	{	
-		int r, g, b;
-
-		Vec3b intensity = image->at<Vec3b>(x, y);
-		if(channel == 2)
-			return r = intensity.val[2];
-		if(channel == 1)
-			return g = intensity.val[1];
-		if(channel == 0)
-			return b = intensity.val[0];
-		
-	}
-	return -1;
+int ImageFunctions::getChannelValue(Mat *image, const int x, const int y, const int channel)
+{
+	if(x >= 0 && x < image->rows && y >= 0 && y < image->cols)
+		return image->at<Vec3b>(x, y).val[channel];
+	
 	cout << "ERROR, THIS PIXEL DOESN'T EXISTS" << endl;
+	return -1;
 }
 
 void ImageFunctions::applyConvolution(Mat *image, Mat1f *mask, Mat *imageOut){
@@ -284,4 +260,36 @@ void ImageFunctions::histogramEqualization(Mat *image, Mat *imageOut){
 	}
 	cout << getChannelValue(image, 0, 0, 0) << endl;
 	cout << getChannelValue(imageOut, 0, 0, 0) << endl;
+}
+
+void ImageFunctions::histogramExpanding(Mat& image, Mat& imageOut)
+{
+	imageOut = image.clone();
+
+	int min = 255, max = 0;
+	set<int> found;
+
+	for(int i = 0; i < image.rows; i++) {
+		for(int j = 0; j < image.cols; j++)
+		{
+			int value = this->getChannelValue(&image, i, j, 0);
+			if (value < min) min = value;
+			if (value > max) max = value;
+
+			found.insert(value);
+		}
+	}
+
+	int var = max - min;
+	int l = found.size() - 1;
+
+	for(int i = 0; i < image.rows; i++) {
+		for(int j = 0; j < image.cols; j++)
+		{
+			int value = 255 * (this->getChannelValue(&image, i, j, 0) - min) / var;
+
+			for (int channel = 0; channel <= 2; channel++)
+				this->editPixel(&imageOut, i, j, channel, value);
+		}
+	}
 }
