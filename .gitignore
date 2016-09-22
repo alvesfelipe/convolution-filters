@@ -4,6 +4,7 @@ matlab2/
 # Image files
 *.png
 *.bmp
+*.txt
 
 # Compiled Object files
 *.slo
